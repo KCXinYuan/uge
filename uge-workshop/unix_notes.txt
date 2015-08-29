@@ -1,0 +1,27 @@
+    1  uname
+    2  curl -fsSL http://git.io/Fafs | sh
+    3  curl-fsSL http://git.io/Fafs | sh
+    4  curl -fsSL http://git.io/Fafs | sh
+    5  uname
+    6  curl -fsSL http://git.io/Fafs | sh
+    7  curl -fsSL http://git.io/Famd | sh
+    8  subl ~/.bashrc
+    9  subl ~/ .bashrc
+   10  curl -fsSL http://git.io/Famd | sh
+   11  subl ~/ .bashrc
+   12  subl ~/.bashrc
+   13  uname
+   14  curl -fsSL http://git.io/Fafs | sh
+   15  curl -fsSL http://git.io/Fafs | sh
+   16  curl -fsSL http://git.io/Fafs | sh
+   17  blah.txt | less
+   18  cd Documents/Emulation
+   19  blah.txt | less
+   20  ls blah.txt | less
+   21  cat blah.txt | less
+   22  mv blah.txt files
+   23  cd files
+   24  cd files
+   25  mkdir files
+   26  history
+   27  history > my_history.txt
